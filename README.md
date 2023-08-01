@@ -15,12 +15,10 @@ your comment goes here
   <a href="https://stackoverflow.com/users/29137257/alina-evgenevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22321143/alina-evgenevna" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/privetalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/privetalina" height="30" width="40" /></a>
 <a href="https://medium.com/@alinaevgenevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alinaevgenevna" height="30" width="40" /></a>
-<a href="ananchenko.alina@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="gmail" height="30" width="40" /></a>
 </p>
+<a target="blank"><img align="left" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="gmail" height="25" width=30" /></a>
 
-
-
-📫 **ananchenko.alina@gmail.com**
+**ananchenko.alina@gmail.com**
   
 <h3 align="left">Языки, билиотеки и технологии:</h3>
 <p align="left">   </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" alt="CH" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
