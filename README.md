@@ -12,8 +12,8 @@ your comment goes here
 
 <h3 align="left">Контакты:</h3>
 <p align="left">
-  <a href="https://stackoverflow.com/users/22321143/alina-evgenevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22321143/alina-evgenevna" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/privetalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/privetalina" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/29137257/alina-evgenevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22321143/alina-evgenevna" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/privetalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/privetalina" height="30" width="40" /></a>
 <a href="https://medium.com/@alinaevgenevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alinaevgenevna" height="30" width="40" /></a>
 </p>
 
