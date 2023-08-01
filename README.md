@@ -34,9 +34,29 @@ your comment goes here
 ---
 ### Ссылки на репозитории
 
+1. [Link text Here](https://link-url-here.org)
+2. [Link text Here](https://link-url-here.org)
+3. [Link text Here](https://link-url-here.org)
 ---
 ### Описание всех проектов
 
 #### Продуктовая аналитика для приложения социальных сетей 
+(Симулятор аналитика)
+
+| Проект   |     Описание      |  Инструменты |
+|----------|---------------|-------|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 #### Маркетинговый анализ данных
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 #### Классические задачи DS
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
