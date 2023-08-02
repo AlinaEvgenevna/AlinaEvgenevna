@@ -60,7 +60,7 @@ your comment goes here
 
 
 
-#### 2.[Репозиторий - Маркетинговый анализ данных](https://github.com/AlinaEvgenevna/MarketingDA)
+#### 2. [Репозиторий - Маркетинговый анализ данных](https://github.com/AlinaEvgenevna/MarketingDA)
 | Проект   |      Описание     |  Инструменты |
 |----------|---------------|--------|
 | [Когортный анализ супермаркета](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/CohortAnalysis) |  Цель - проанализировать динамику удержания клиентов. Разбить клиентов на когорты и исследовать retention rate динамику. | Python, pandas, seaborn heatmap,  |
@@ -68,7 +68,7 @@ your comment goes here
 | A/B тест для сравнения двух типов рекламного объявления | right-aligned |    $1 |
 
 
-#### 3.[Репозиторий - Классические задачи DS](https://github.com/AlinaEvgenevna/DS)
+#### 3. [Репозиторий - Классические задачи DS](https://github.com/AlinaEvgenevna/DS)
 | Проект   |      Описание     |  Инструменты |
 |----------|---------------|------|
 | [Линейная регрессия](https://github.com/AlinaEvgenevna/DS/tree/main/LinearRegression) | Цель проекта - исследовать ценообразование машин на китайском рынке (не предсказание цены). Проверены допущения для линейной регрессии, исследованы взаимосвязи между переменными, построена модель с 91% коэффицинтом детерминации.| Python, scipy.stats, sklearn и др.|
