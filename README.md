@@ -60,12 +60,11 @@ your comment goes here
 
 
 
-#### [Репозиторий - Маркетинговый анализ данных]((https://github.com/AlinaEvgenevna/MarketingDA))
+#### [Репозиторий - Маркетинговый анализ данных](https://github.com/AlinaEvgenevna/MarketingDA)
 | Проект   |      Описание     |  Инструменты |
 |----------|---------------|--------|
-| Когортный анализ супермаркета |  left-aligned | $1600 |
-| RFM анализ клиентов супермаркета|    Анализ покупателей по их потребительского поведению, дата последней покупки, частота покупок, монетарная ценность; разделение на кластеры.  |   Python, seaborn, pandas, sklearn |
-| Кластеризация клиентов супермаркета| right-aligned |    $1 |
+| [Когортный анализ супермаркета](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/CohortAnalysis) |  Цель - проанализировать динамику удержания клиентов. Разбить клиентов на когорты и исследовать retention rate динамику. | Python, pandas, seaborn heatmap,  |
+| [RFM анализ клиентов супермаркета](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/RFM_in_online_market)|    Анализ покупателей по их потребительского поведению, дата последней покупки, частота покупок, монетарная ценность; разделение на кластеры.  |   Python, seaborn, pandas, sklearn |
 | A/B тест для сравнения двух типов рекламного объявления | right-aligned |    $1 |
 
 
