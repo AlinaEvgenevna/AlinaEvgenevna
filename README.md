@@ -41,7 +41,7 @@ your comment goes here
 
 1. [ХХХ](https://github.com/AlinaEvgenevna/DS/tree/main)
 2. [YYY](https://link-url-here.org)
-3. [Репозиторий для классических DS проектов]([https://link-url-here.org](https://github.com/AlinaEvgenevna/DS/tree/main))
+3. [Репозиторий для классических DS проектов](https://github.com/AlinaEvgenevna/DS/tree/main)
 ---
 ### Описание всех проектов
 
