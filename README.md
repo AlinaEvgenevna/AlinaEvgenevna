@@ -54,7 +54,7 @@ your comment goes here
 | [Анализ  Retention](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/Retention) |    Анализ удержания пользователей, сравнение рекламного и органического трафика. |   Suprset, SQL Lab, Python |
 | [Анализ ad-hoc гипотез](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/AdHocResearch) | Изучение необычного скачка и необычного падение трафика в определенные дни. |    Superset, SQL Lab |
 | A/B тесты | Проверка влияния нового алгоритма показа в ленте новостей на CTR. Сплитование хэшированием с солью, A/A тест, A/B тесты с помощью t-test, mann-whitney, bootstrap, бакетное преобразование и линеаризации метрик перед тестами. Цель - решить, стоит ли выкатывать новый алгоритм на всех пользователей. |   Python |
-| Выгрузка автоматической отчетности в таблицы | Формирование отчета и выгрузка его в ClickHouse таблицы.|    Python, Airflow, ClickHouse, Redash |
+| [Выгрузка автоматической отчетности в таблицы](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/etl_dag_to_table) | Настройка ETL-pipeline для отчетности в Airflow. Формирование отчета и выгрузка его в ClickHouse таблицы.|    Python, Airflow, ClickHouse, git, Redash |
 | Выгрузка ежедневного сводного отчета в чат через телеграмм бота | Формирование отчета и графиков по метрикам за прошедший день, отправка автоматических сообщений. |    Python, Airflow, Telegramm |
 | Настройка рассылки автоматических алертов в телеграмм-чат | Написание алгорита поиска аномалий в данных, формирование алерта с текстом и графиками, отправка автоматизированных сообщений в телеграмм. |    Python, Airflow, Telegramm |
 
