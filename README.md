@@ -19,6 +19,8 @@ your comment goes here
 <a target="blank"><img align="left" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="gmail" height="15" width="20" /></a> 
 **ananchenko.alina@gmail.com**
 
+<a href="https://t.me/a1ina_evgenevna" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/256/5968/5968804.png" alt="tg" height="25" width="25" /></a> 
+[**@a1ina_evgenevna**](https://t.me/a1ina_evgenevna)
 </p>
 
 
