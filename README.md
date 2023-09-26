@@ -41,7 +41,7 @@ your comment goes here
 ### Ссылки на репозитории
 
 1. [Репозиторий - Внедрение системы аналитики для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
-2. [Репозиторий - Маркетинговый анализ данных](https://github.com/AlinaEvgenevna/MarketingDA)
+2. [Репозиторий - Маркетинговая и продуктовая аналитика](https://github.com/AlinaEvgenevna/MarketingDA)
 3. [Репозиторий для классических DS проектов](https://github.com/AlinaEvgenevna/DS)
 ---
 ### Описание всех проектов (с ссылками)
@@ -68,7 +68,7 @@ your comment goes here
 
 
 
-#### 2. [Репозиторий - Маркетинговый анализ данных](https://github.com/AlinaEvgenevna/MarketingDA)
+#### 2. [Репозиторий - Маркетинговая и продуктовая аналитика](https://github.com/AlinaEvgenevna/MarketingDA)
 | Проект   |      Описание     |  Инструменты |
 |----------|---------------|--------|
 | [Когортный анализ супермаркета](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/CohortAnalysis) |  Цель - проанализировать динамику удержания клиентов. Разбить клиентов на когорты и исследовать retention rate динамику. | Python, pandas, seaborn heatmap,  |
