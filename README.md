@@ -74,6 +74,7 @@ your comment goes here
 | [Когортный анализ супермаркета](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/CohortAnalysis) |  Цель - проанализировать динамику удержания клиентов. Разбить клиентов на когорты и исследовать retention rate динамику. | Python, pandas, seaborn heatmap,  |
 | [RFM анализ клиентов супермаркета](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/RFM_in_online_market)|    Анализ покупателей по их потребительского поведению, дата последней покупки, частота покупок, монетарная ценность; разделение на кластеры.  |   Python, seaborn, pandas, sklearn |
 | [A/B тест для сравнения двух типов рекламного объявления](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/AB_test) | Сравнение конверсий после просмотра двух разных типов объявлений. | Python, pandas, seaborn, statsmodels, proportions_ztest |
+| [Отчеты по сервису доставки](https://github.com/AlinaEvgenevna/MarketingDA/tree/main/Delivery_reports) | 1. Обзорный отчет по основным показателям сервиса доставки. 2. Отчет об удержании клиентов по дням (сравнение ушедших и удержанных, декомпозиция пользователей на новых/ удержанных/ вернувшихся/ воскресших, когортный анализ)| SQL, Redash |
 
 
 #### 3. [Репозиторий - Классические задачи DS](https://github.com/AlinaEvgenevna/DS)
