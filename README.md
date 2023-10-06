@@ -9,18 +9,6 @@ your comment goes here
 <a rel="noreferrer"> <img src="" alt="python" width="40" height="40"/> </a>
 -->
 
-<h3 align="left">Контакты:</h3>
-<p align="left">
-  <a href="https://stackoverflow.com/users/29137257/alina-evgenevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22321143/alina-evgenevna" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/privetalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/privetalina" height="30" width="40" /></a>
-<a href="https://medium.com/@alinaevgenevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alinaevgenevna" height="30" width="40" /></a>
-
-<a target="blank"><img align="left" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="gmail" height="15" width="20" /></a> 
-**ananchenko.alina@gmail.com**
-
-<a href="https://t.me/a1ina_evgenevna" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/256/5968/5968804.png" alt="tg" height="25" width="25" /></a> 
-[**@a1ina_evgenevna**](https://t.me/a1ina_evgenevna)
-</p>
 
 
 
