@@ -35,34 +35,19 @@ your comment goes here
 <a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupiter" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" alt="arflow" width="40" height="40"/> </a></p>
 
-
-
 ---
-### Ссылки на репозитории
-
-1. [Репозиторий - Внедрение системы аналитики для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
-2. [Репозиторий - Маркетинговая и продуктовая аналитика](https://github.com/AlinaEvgenevna/MarketingDA)
-3. [Репозиторий для классических DS проектов](https://github.com/AlinaEvgenevna/DS)
----
-### Описание всех проектов (с ссылками)
+### Портфолио проектов 
 
 #### 1. [Репозиторий - Внедрение системы аналитики для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
 
-#### Задача
-
-* Есть приложение социальных сетей c двумя основными сервисами для пользователей - лентой новостей и мессенджером.
-* Есть база данных в ClickHouse с обновляемыми в реальном времени данными о событиях.
-   * Данные ленты новостей: time, user_id, action (view/like), характеристики пользователя (пол, возрас, страна, город, ос), источник трафика.
-   * Данные мессенджера: time, user_id, receiver_id, данные о пользователе, отправившем сообщение, источник трафика.
-* **Задача**: выстроить систему аналитики: систему дашбордов; провести первые исследования и задать шаблоны анализа retention, ad-hoc гипотез; провести A/B тесты; автоматизировать рутинные задачи, подсчет основных метрик и отчетность; настроить и автоматизировать систему поиска аномалий и отправки уведомлений.
 
 | Проект   |     Описание      |  Инструменты |
 |----------|---------------|-------|
-| [Дашборды](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/dashboards) |  Подготовка системы дашбордов, отражений основных метрик в динамике (dau, wau, mau, ctr, разрезы пользователей, поведение пользователей, качество трафика), исследование оперативных данных в реальном времени. | Superset, SQL Lab |
-| [Анализ  Retention](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/Retention) |    Анализ удержания пользователей, сравнение рекламного и органического трафика. |   Suprset, SQL Lab, Python |
-| [Анализ ad-hoc гипотез](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/AdHocResearch) | Изучение необычного скачка и необычного падение трафика в определенные дни. |    Superset, SQL Lab |
+| [Дашборды](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/dashboards) |  Подготовка системы дашбордов, отражений основных метрик в динамике (dau, wau, mau, ctr, разрезы пользователей, поведение пользователей, качество трафика), исследование оперативных данных в реальном времени. | Superset, SQL, Clickhouse |
+| [Анализ  Retention](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/Retention) |    Анализ удержания пользователей, сравнение рекламного и органического трафика. |   Suprset, SQL, Python |
+| [Анализ ad-hoc гипотез](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/AdHocResearch) | Изучение необычного скачка и необычного падение трафика в определенные дни. |    Superset, SQL |
 | [A/B тесты](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/AB_tests) | Проверка влияния нового алгоритма показа в ленте новостей на CTR. Сплитование хэшированием с солью, A/A тест, A/B тесты с помощью t-test, mann-whitney, bootstrap, бакетное преобразование и линеаризации метрик перед тестами. Цель - решить, стоит ли выкатывать новый алгоритм на всех пользователей. |   Python |
-| [Выгрузка автоматической отчетности в таблицы](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/etl_dag_to_table) | Настройка ETL-pipeline для отчетности в Airflow. Формирование отчета и выгрузка его в ClickHouse таблицы.|    Python, Airflow, ClickHouse, git, Redash |
+| [Выгрузка автоматической отчетности в таблицы](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/etl_dag_to_table) | Настройка ETL-pipeline для отчетности в Airflow. Формирование отчета и выгрузка его в ClickHouse таблицы.|    Python, Airflow, Clickhouse, git, Redash |
 | [Выгрузка ежедневного сводного отчета в чат через телеграм бота](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/dag_report_chat_bot) | Формирование отчета и графиков по метрикам за прошедший день, отправка автоматических сообщений. |    Python, Airflow, Telegram |
 | [Поиск аномалий и автоматизация рассылки алертов в телеграм-чат](https://github.com/AlinaEvgenevna/AppAnalytics/tree/main/dag_anomaly_alerts) | Написание алгорита поиска аномалий в данных, формирование алерта с текстом и графиками, отправка автоматизированных сообщений в телеграм при возникновении аномалии. |    Python, Airflow, Telegram |
 
