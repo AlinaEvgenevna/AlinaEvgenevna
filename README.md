@@ -65,6 +65,14 @@ Airflow
 -->
 <a target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" alt="arflow" width="40" height="40"/> </a></p>
 
+*	**BI**: PowerBI (DAX + Power Query), Superset, Redash, дашбоды в Excel и Google Sheets.
+*	**SQL**: запросы, подзапросы, джоины, оконные функции; PostgreSQL, ClickHouse.
+*	**Python**: numpy,  pandas,  seaborn,  matplotlib, plotly, dash, scipy.stats,  statsmodels, sklearn, GXBoost.
+*	**Excel**: функции, ВПР, анализ данных, массивы, сводные таблицы, срезы, графики, дашаборды, Power Query.
+*	Git, GitHub, JupiterLab, GoogleCollab, airflow.
+*	Статистика, маркетинг, поведенческая экономика, юнит-экономика, продуктовые метрики.
+
+
 ---
 
 ### 1. [Аналитика для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
