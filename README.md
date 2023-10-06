@@ -1,4 +1,4 @@
-
+## Портфолио проектов
 <!---
 your comment goes here
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -21,9 +21,8 @@ your comment goes here
 <a target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" alt="arflow" width="40" height="40"/> </a></p>
 
 ---
-### Портфолио проектов 
 
-#### 1. [Аналитика для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
+### 1. [Аналитика для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
 
 
 | Проект   |     Описание      |  Инструменты |
