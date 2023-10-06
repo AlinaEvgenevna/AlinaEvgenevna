@@ -38,7 +38,7 @@ your comment goes here
 ---
 ### Портфолио проектов 
 
-#### 1. [Репозиторий - Внедрение системы аналитики для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
+#### 1. [Аналитика для приложения социальных сетей](https://github.com/AlinaEvgenevna/AppAnalytics) 
 
 
 | Проект   |     Описание      |  Инструменты |
