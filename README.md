@@ -69,7 +69,7 @@ Airflow
 *	**SQL**: запросы, подзапросы, джоины, оконные функции; PostgreSQL, ClickHouse.
 *	**Python**: numpy,  pandas,  seaborn,  matplotlib, plotly, scipy.stats,  statsmodels, sklearn, GXBoost.
 *	**Excel**: функции, ВПР, анализ данных, массивы, сводные таблицы, срезы, графики, дашаборды, Power Query.
-*	Git, GitHub, JupiterLab, GoogleCollab, airflow.
+*	Git, GitHub, Jupiter, GoogleCollab, airflow.
 *	Статистика, маркетинг, поведенческая экономика, юнит-экономика, продуктовые метрики.
 
 
